@@ -1,0 +1,22 @@
+in app.js we create modules
+
+modules are the different components of the Angular App
+
+added ng-app to body tag in index.html
+ng-app is called a directive
+- tells the scope of the module
+
+in MainController.js we created a new controller
+- controller manages the app data
+- used property title to store a string
+- attach it to $scope
+
+in index.html added ng-controller
+- directive to define scope of controller
+- properties attached to $scope are avaible here
+
+Used expression to access title from scope
+- used to display values on the screen
+
+
+----------------------------
